@@ -14,4 +14,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0xmee&layout=compact&theme=tokyonight&hide_border=true" alt="" height="165"/>
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d0xmee&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <br><br>
+  <h3>🛠️ Programming Languages</h3>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
