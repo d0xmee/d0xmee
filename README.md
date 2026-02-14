@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.tenor.com/bhewUhwCTYYAAAAm/tux-linux-tux.webp" width="200" alt="Tux Linux"/>
   <br><br>
-  <a href="https://t.me/+ZdaK_6leGCUyY2Jh">
+  <a href="https://t.me/BioD0xmee">
     <img src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://github.com/d0xmee">
