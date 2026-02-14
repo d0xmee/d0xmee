@@ -17,7 +17,7 @@
   
   <br><br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=d0xmee&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=d0xmee&theme=tokyonight&no-frame=true&row=1&column=6" alt=""/>
   
   <br><br>
   
