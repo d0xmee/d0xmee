@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp4aHNnN3JyMjQ5emFuMWMxMHozZnJucGF0dnhnYTI3YjJ6aG4wNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sULKEgDMX8LcI/giphy.webp" width="500"/>
+  <img src="https://media.tenor.com/bhewUhwCTYYAAAAm/tux-linux-tux.webp" width="500"/>
   
   <br>
   
