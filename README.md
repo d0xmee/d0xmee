@@ -7,18 +7,10 @@
   <a href="https://github.com/d0xmee">
     <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/d0xmee/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/d0xmee">
-    <img src="https://img.shields.io/badge/STACKOVERFLOW-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=d0xmee&style=flat-square&color=blue" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/d0xmee?style=social" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/d0xmee?style=social" alt="GitHub stars"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=d0xmee&theme=onedark&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt=""/>
   <br><br>
   
   <img src="https://streak-stats.demolab.com/?user=d0xmee&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=FF4500&ring=FF4500" alt="GitHub Streak"/>
@@ -31,18 +23,18 @@
   <br><br>
 
   <details>
-    <summary><b>⚡ Секретные характеристики</b></summary>
+    <summary><b>⚡ Secret Stats</b></summary>
     <br>
-    <img src="https://img.shields.io/badge/КОДИРОВАНИЕ-16%20часов%2Fсутки-FF6B6B?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/БАГИ-исправлено%3A%20420-4CAF50?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/ПРОЕКТЫ-69%20в%20продакшене-FFD700?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/НОЧНЫЕ%20КОММИТЫ-1337%20раз-8A2BE2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/CODING-16%20hours%2Fday-FF6B6B?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/BUGS-fixed%3A%20420-4CAF50?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/PROJECTS-69%20in%20production-FFD700?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/NIGHT%20COMMITS-1337%20times-8A2BE2?style=for-the-badge"/>
     <br><br>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
   </details>
   <br><br>
   
-  <h3>⚙️ Технологический стек</h3>
+  <h3>⚙️ Tech Stack</h3>
   <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
@@ -56,7 +48,7 @@
   <br><br>
 
   <details>
-    <summary><b>🔮 Секретная консольная команда</b></summary>
+    <summary><b>🔮 Secret Console Command</b></summary>
     <br>
     <pre>
       sudo rm -rf /
