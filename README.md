@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/github/followers/d0xmee?style=social" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/d0xmee?style=social" alt="GitHub stars"/>
   <br><br>
-  
-  <img src="https://streak-stats.demolab.com/?user=d0xmee&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=FF4500&ring=FF4500" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=d0xmee&theme=tokyonight&hide_border=true&date_format=j%20M&mode=weekly&fire=FF4500&ring=FF4500" alt="GitHub Streak"/>
   <br><br>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=d0xmee&theme=tokyo-night&hide_border=true&area=true&custom_title=Code%20Activity%20Graph&point=FF69B4&line=9F4BFF" width="95%" alt="GitHub Activity Graph"/>
