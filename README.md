@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/bhewUhwCTYYAAAAm/tux-linux-tux.webp" width="500"/>
+  <img src="https://media.tenor.com/bhewUhwCTYYAAAAm/tux-linux-tux.webp" width="100"/>
   
   <br>
   
