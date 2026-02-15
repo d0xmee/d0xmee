@@ -17,8 +17,6 @@
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=d0xmee&theme=tokyo-night&hide_border=true&area=true&custom_title=Code%20Activity%20Graph&point=FF69B4&line=9F4BFF" width="95%" alt="GitHub Activity Graph"/>
   <br><br>
-  
-  <img src="https://github-contributor-stats.vercel.app/api?username=d0xmee&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributors"/>
   <br><br>
 
   <details>
