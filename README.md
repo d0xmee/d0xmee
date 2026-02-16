@@ -18,6 +18,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=d0xmee&theme=tokyo-night&hide_border=true&area=true&custom_title=Code%20Activity%20Graph&point=FF69B4&line=9F4BFF" width="95%" alt="GitHub Activity Graph"/>
   <br><br>
   
+  <!-- Fixed Contributor Stats -->
   <img src="https://github-contributor-stats.vercel.app/api?username=d0xmee&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributors"/>
   <br><br>
 
@@ -50,7 +51,9 @@
     <summary><b>🔮 Secret Console Command</b></summary>
     <br>
     <pre>
-      sudo rm -rf /
+      <span style="color: red;">WARNING: This command can destroy your system!</span>
+      # sudo rm -rf /
+      echo "Nice try, but I'm not letting you nuke your system! 😉"
     </pre>
   </details>
   <br>
